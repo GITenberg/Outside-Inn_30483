@@ -1,0 +1,31 @@
+_repo: Outside-Inn_30483
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: King, W. B.
+    gutenberg_agent_id: '34637'
+    url: http://www.gutenberg.org/2009/agents/34637
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kelley, Ethel M. (Ethel May)
+    birthdate: 1878
+    gutenberg_agent_id: '33338'
+    url: http://www.gutenberg.org/2009/agents/33338
+description: ''
+gutenberg_issued: '2009-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30483'
+  lccn: '20007519'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: Outside Inn
+url: http://www.gutenberg.org/ebooks/30483
